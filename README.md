@@ -1,6 +1,11 @@
 ﻿# ScheduleSpidey
 This mod changes (nearly) all npc skins to a spiderman skin and removes the eyes and accessories.
 
+**⚠️CAUTION:** This mod currently only works for the `alternate` Version of the game! 
+Make sure you are using the correct branch on steam.
+
+
+
 ---
 
 ## 🛠 Requirements
