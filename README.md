@@ -20,3 +20,6 @@ Follow these steps to get Spidey into your game:
 5. Move the contents of the extracted `Mods` folder into the `Mods` folder created by MelonLoader.
 
 ---
+
+## Credits
+- 3D Model from https://models.spriters-resource.com/
